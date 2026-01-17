@@ -14,10 +14,5 @@ This repository contains Python code for performing Exploratory Data Analysis (E
 - Correlation analysis was performed to identify the relationships between features and their impact on species classification.
 - The conclusion of the EDA suggests that petal measurements (length and width) are more significant for species classification than sepal measurements.
 
-## Usage
 
-1. Clone the repository: `git clone https://github.com/THAMIZH-ARASU/Exploratory-Data-Analysis-on-The-Iris-Data-Set.git`
-2. Run the Python script on Jupyter notebook : `iris_exploration.py`
-
-Feel free to explore the code and visualizations to gain insights into the Iris dataset!
 
